@@ -103,7 +103,7 @@ const Hero: React.FC = () => {
             
             <div className="flex flex-col sm:flex-row gap-4 mt-8">
               <GradientButton size="lg">
-                Join the Early Access Waitlist
+                Try NexusHR
               </GradientButton>
               
             </div>
