@@ -57,7 +57,7 @@ const WhyItMatters: React.FC = () => {
       <div className="text-center mb-16">
         <h2 className="heading-lg mb-4">Why It Matters</h2>
         <p className="subtitle mx-auto">
-          Traditional hiring processes are broken. NexuxHR fixes the fundamentals.
+          Traditional hiring processes are broken. NexusHR fixes the fundamentals.
         </p>
       </div>
 

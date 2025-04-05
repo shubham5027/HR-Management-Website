@@ -53,7 +53,7 @@ const EarlyAccess: React.FC = () => {
           <div className="text-center mb-10">
             <h2 className="heading-md mb-4">Get Early Access</h2>
             <p className="text-white/80 max-w-2xl mx-auto">
-              Join our waitlist to be among the first to experience AI-HireOS
+              Join our waitlist to be among the first to experience NexusHR
               and receive exclusive early adopter benefits.
             </p>
           </div>
