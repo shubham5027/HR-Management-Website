@@ -102,11 +102,11 @@ const Hero: React.FC = () => {
             </p>
             
             <div className="flex flex-col sm:flex-row gap-4 mt-8">
-              <GradientButton size="lg">
-                Try NexusHR
-              </GradientButton>
-              
-            </div>
+      <GradientButton size="lg">
+        Try NexusHR
+        <span className="ml-2">&#8594;</span> {/* Right arrow symbol */}
+      </GradientButton>
+    </div>
           </div>
 
           {/* Image with 20% larger size */}

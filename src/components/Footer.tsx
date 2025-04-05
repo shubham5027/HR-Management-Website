@@ -7,7 +7,7 @@ const Footer: React.FC = () => {
       <div className="container mx-auto px-4">
         <div className="flex flex-col items-center">
           <div className="mb-6">
-            <h3 className="text-2xl font-bold gradient-text">NexuxHR</h3>
+            <h3 className="text-2xl font-bold gradient-text">NexusHR</h3>
             <p className="text-white/60 text-sm mt-1">
               Built for the Future of Hiring — Automated, Intelligent, End-to-End.
             </p>
