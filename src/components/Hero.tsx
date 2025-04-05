@@ -93,7 +93,7 @@ const Hero: React.FC = () => {
 
             <h1 className="heading-xl">
               Say Hello to the{" "}
-              <span className="text-hireos-teal">Future of Human Resources</span>
+              <span className="text-hireos-teal">Future of Human Resource</span>
             </h1>
             
             <p className="subtitle text-white/80 md:text-xl lg:text-2xl">
