@@ -18,6 +18,11 @@ This repository only contains the **SaaS-style landing website**, with the goal 
 - Promote core AI-based features
 - Encourage newsletter and beta sign-ups
 
+- Command to Run:
+
+- 1) npm i
+  2) npm run dev
+
 ---
 
 ## 🌟 Key Features
